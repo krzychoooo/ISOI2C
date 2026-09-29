@@ -13,5 +13,11 @@ This module is based on ISO1540 chips.
 * The module is designed to accommodate an isolating converter, such as the B0505.
 * All signals are located on one edge of the module, minimizing the footprint on the target PCB.
 
-<picture><img src="img/IsoI2CV200_sch.PNG" style="border: 4px solid grey"></picture>
-<picture><img src="img/IsoI2CV200.png" style="border: 4px solid grey"></picture>
+Schematic:   
+<picture><img src="img/IsoI2CV200_sch.PNG" style="border: 4px solid grey"></picture>   
+Real foto:   
+<picture><img src="img/IsoI2CV200.png" style="border: 4px solid grey"></picture>   
+Kicad symbol:   
+<picture><img src="img/IsoI2C_kicadSymbol.PNG" style="border: 4px solid grey"></picture>   
+Kicad footprint:   
+<picture><img src="img/IsoI2C_FootPrint.PNG" style="border: 4px solid grey"></picture>
